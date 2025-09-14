@@ -45,15 +45,15 @@ date, tactic, state, campaign, impression, clicks, spend, attributed revenue, pl
 ## 🛠️ Installation & Setup
 
 1. **Install Dependencies**
-\`\`\`bash
+```bash
 pip install requirements.txt
-\`\`\`
+```
 
 
 3. **Run Dashboard**
-\`\`\`bash
+```bash
 streamlit run app.py
-\`\`\`
+```
 
 ## 📈 Key Metrics Explained
 
