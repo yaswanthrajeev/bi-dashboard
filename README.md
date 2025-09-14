@@ -52,7 +52,7 @@ pip install requirements.txt
 
 3. **Run Dashboard**
 \`\`\`bash
-streamlit run compact_executive_dashboard.py
+streamlit run app.py
 \`\`\`
 
 ## 📈 Key Metrics Explained
